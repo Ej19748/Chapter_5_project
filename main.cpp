@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main() 
 {
@@ -21,7 +22,6 @@ int main()
         cout << "First student in line = " << first << endl;
         cout << "Last student in line = " << last << endl;
       return 0;  
-      }
-      
+      }      
     }
 }
